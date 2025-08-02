@@ -1,0 +1,13 @@
+# GCC output binaries
+*.o
+*.out
+*.a
+*.so
+*.exe
+
+# GCC default output file if not specified
+a.out
+
+# Backup / temp files
+*~
+*.swp
