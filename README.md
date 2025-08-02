@@ -1,0 +1,1 @@
+A collection of simple C code examples demonstrating core operating system concepts like processes, threads, and shared memory.
