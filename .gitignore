@@ -11,3 +11,7 @@ a.out
 # Backup / temp files
 *~
 *.swp
+
+
+# JSON, CSV, XML
+*.json
